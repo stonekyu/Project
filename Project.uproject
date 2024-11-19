@@ -58,6 +58,11 @@
 			"Name": "PhysicalLayout",
 			"Enabled": true,
 			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/349bf2d4b1a945fa8f31db80fabf8058"
+		},
+		{
+			"Name": "ConvAI",
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/696326c90d80462b8775712d2b6cc2a7"
 		}
 	]
 }
